@@ -20,9 +20,10 @@ Our board will consist of experts from a diverse range of world-views and skills
 
 The inaugural board of directors:
 
-- **Andreas Kling** (President): Project founder and lead developer. Past: Apple Safari, Nokia (WebKit), KHTML.
-- **Chris Wanstrath** (Secretary & Treasurer): Current: Unannounced Game Engine, Null Games, Computer History Museum. Past: GitHub co-founder & CEO.
+- **Andreas Kling** (Elnök): Projekt alapító és vezető fejlesztő. Múlt: Apple Safari, Nokia (WebKit), KHTML.
+- **Chris Wanstrath** (Titkár & Kincstáros): Jelenleg: Be nem jelentett játékmotor, Null Games, Computer History Museum. Múlt: GitHub társalapító & vezérigazgató.
 
-Our goal is not an easy one: a useful browser for the contemporary web, in the hands of users. It's going to take some time, but we're well on our way already!
+A célunk nem egyszerű: egy hasznos böngésző a kortárs web számára, a felhasználók kezében. Ez el fog tartani egy ideig, de már úton vagyunk!
 
-For more information and to support us on our mission, please visit [ladybird.org](https://ladybird.org/).
+Több információért és a küldetésünk támogatásáért, látogass el a [ladybird.org](https://ladybird.org/) oldalra.
+  
