@@ -1,3 +1,5 @@
+here be cookin hungarian translation
+
 # ladybird.org
 
 To install dependencies:
