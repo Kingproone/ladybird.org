@@ -16,9 +16,9 @@ In order to help us achieve this goal, we've created the **Ladybird Browser Init
 
 Unlike traditional business models that rely on monetizing the user, Ladybird is funded entirely by sponsorships and donations from companies and individuals who care about the open web. Our non-profit will not pursue corporate deals or revenue outside of unrestricted donations. The software and its source code will be available for free, forever.
 
-Our board will consist of experts from a diverse range of world-views and skillsets, not donors. We are starting small and we'll be adding more directors this year.
+A tanácsunk szakértőkből fog állni, akik különböző világnézetekkel és készségekkel rendelkeznek, nem pedig adományozókból. Kis lépésekkel indulunk, és idén további tanácstagokat fogunk felvenni.
 
-The inaugural board of directors:
+Az alakuló igazgatótanács:
 
 - **Andreas Kling** (Elnök): Projekt alapító és vezető fejlesztő. Múlt: Apple Safari, Nokia (WebKit), KHTML.
 - **Chris Wanstrath** (Titkár & Kincstáros): Jelenleg: Be nem jelentett játékmotor, Null Games, Computer History Museum. Múlt: GitHub társalapító & vezérigazgató.
