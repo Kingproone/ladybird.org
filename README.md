@@ -1,6 +1,6 @@
-here be cookin hungarian translation
+# here be cookin hungarian translation
 
-# ladybird.org
+ladybird.org
 
 To install dependencies:
 
