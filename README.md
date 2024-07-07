@@ -1,6 +1,10 @@
 # here be cookin hungarian translation
 
-ladybird.org
+<details>
+
+<summary>ladybird.org</summary>
+
+### You can add a header
 
 To install dependencies:
 
@@ -30,3 +34,5 @@ and more below
 ```
 
 > Styling is currently coming from standard css in `src/styles/global.css` but will be tailwind driven in the future, you can already use tailwind inside any `class=""` block right now if you are making a PR
+
+</details>
