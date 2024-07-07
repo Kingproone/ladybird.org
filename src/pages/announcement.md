@@ -20,8 +20,8 @@ A tanácsunk szakértőkből fog állni, akik különböző világnézetekkel é
 
 Az alakuló igazgatótanács:
 
-- **Andreas Kling** (Elnök): Projekt alapító és vezető fejlesztő. Múlt: Apple Safari, Nokia (WebKit), KHTML.
-- **Chris Wanstrath** (Titkár & Kincstáros): Jelenleg: Be nem jelentett játékmotor, Null Games, Computer History Museum. Múlt: GitHub társalapító & vezérigazgató.
+- **Andreas Kling** (Elnök): Projekt alapító és vezető fejlesztő. Korábban: Apple Safari, Nokia (WebKit), KHTML.
+- **Chris Wanstrath** (Titkár & Kincstáros): Jelenleg: Be nem jelentett játékmotor, Null Games, Computer History Museum. Korábban: GitHub társalapító & vezérigazgató.
 
 A célunk nem egyszerű: egy hasznos böngésző a kortárs/modern web számára a felhasználók kezében. Ez el fog tartani egy ideig, de már úton vagyunk!
 
