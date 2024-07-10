@@ -4,6 +4,8 @@ title: Announcing the Ladybird Browser Initiative
 date: July 1st 2024
 ---
 
+# Work in Progress
+
 Hello friends! Today I want to share with you our plans for the next chapter of Ladybird, the truly independent, open source web browser we've been developing from scratch for the past few years.
 
 Ladybird uses a brand new engine based on web standards, without borrowing any code from other browsers. It started as a humble HTML viewer for the SerenityOS hobby project, but since then it's grown into a full cross-platform browser project supporting Linux, macOS, and other Unix-like systems.
